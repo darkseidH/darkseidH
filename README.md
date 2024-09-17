@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CHAQCHAQ Hamza</h1>
 <h3 align="center">Master's in Data Science & Intelligent Systems | Passionate about Backend & Full Stack Development, Machine Learning, DevOps, and Cloud Solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkseidh&label=Profile%20views&color=0e75b6&style=flat" alt="darkseidh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkseidH&label=Profile%20views&color=0e75b6&style=flat" alt="darkseidH" /> </p>
 
 - 🌱 I’m currently learning **Data,Cloud and DevOps**
 
